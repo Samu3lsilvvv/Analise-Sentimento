@@ -1,4 +1,4 @@
-# Classificação de Sentimentos em Reviews de Produtos (Positivo, Negativo, Neutro)
+# Classificação de Sentimentos em Reviews de Produtos (Positivo, Negativo)
 
 Este repositório apresenta um projeto completo de **Machine Learning** para automatizar a análise de sentimentos em reviews de produtos de e-commerce, classificando-os em **positivo** e **negativo**.
 
